@@ -1,0 +1,11 @@
+.header {
+  background-color: #56a8c2;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  color: white;
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
